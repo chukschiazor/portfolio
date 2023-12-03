@@ -1,6 +1,6 @@
-# Hello
+# Hello there my name is Chuks Chiazor
 
-I'm Chuks, a professional data scientist, researcher, nature enthusiast, and a lifelong learner. I am fascinated by the transformative potential of technology in shaping how we live and learn.
+a professional data scientist, researcher, nature enthusiast, and a lifelong learner. I am fascinated by the transformative potential of technology in shaping how we live and learn.
 
 With an M.Sc. in Business Intelligence and Analytics from The University of Huddersfield, I have over five years of experience in harnessing data-driven methodologies, statistical modeling, and machine learning. My journey in the field has been focused on driving business growth, enhancing customer experiences, and optimizing profitability. I specialize in developing customer behavioral algorithms, leveraging visualization tools, and managing comprehensive research projects. These skills have been instrumental in my track record of successfully transforming data infrastructures, deriving critical insights, and formulating actionable recommendations.
 
