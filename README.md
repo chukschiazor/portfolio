@@ -1,4 +1,4 @@
-# Hello there my name is Chuks Chiazor
+# Hello there, my name is Chuks Chiazor
 
 a professional data scientist, researcher, nature enthusiast, and a lifelong learner. I am fascinated by the transformative potential of technology in shaping how we live and learn.
 
