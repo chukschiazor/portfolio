@@ -1,160 +1,55 @@
-# Hello there, my name is Chuks Chiazor
+# Data Scientist
 
-a professional data scientist, researcher, nature enthusiast, and a lifelong learner. I am fascinated by the transformative potential of technology in shaping how we live and learn.
-
-With an M.Sc. in Business Intelligence and Analytics from The University of Huddersfield, I have over five years of experience in harnessing data-driven methodologies, statistical modeling, and machine learning. My journey in the field has been focused on driving business growth, enhancing customer experiences, and optimizing profitability. I specialize in developing customer behavioral algorithms, leveraging visualization tools, and managing comprehensive research projects. These skills have been instrumental in my track record of successfully transforming data infrastructures, deriving critical insights, and formulating actionable recommendations.
-
-Being a lifelong learner, I thrive in collaborative environments and excel in communicating complex data insights in a clear, impactful manner. I am deeply passionate about using data to inform strategic decision-making. I'm always eager to take on new data science challenges or explore fresh ideas. If you're interested in collaboration, whether it's tackling a new data science problem or brainstorming innovative concepts, I'd love to connect and see how we can create something amazing together.
-
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-Master of Science, Business Intelligence and Analytics [Distinction]. 
-University of Huddersfield, UK 
-(January 2021 -February 2022).                                                                
-Courses; Applied Analytics techniques, data visualization and business decision making.
-Research Paper: Impact of Big Data Analytics in Retail Sector
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-Bachelor of Science, Plant Biotechnology. 
-University of Benin, Nigeria (2011 -2015).       
+## Work Experience
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-## Professional Experience 
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-#### Senior Data Scientist, Marketing. BPP, UK. (February 2023 – Present)
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
- • Collaborate with the BPP Marketing team and other company stakeholders to identify opportunities to employ 
-   advanced analytics, statistical modeling, machine learning, and other data-driven methodologies.
-   
- • Developed and enhanced customer behavioral algorithms to aid in the focus of corporate and divisional 
-   activities that promote company growth, retention, customer experience, and long-term profitability.
-   
- • Utilized Alteryx, Power BI and other visualization tools for automated reports and pipelines to effectively     communicate insights to business stakeholders, ensuring models and reports are properly understood and  
-   adopted into business processes.
-   
- • Manage various research projects with short deadlines; ensuring research projects are completed on schedule     and in accordance with internal customer needs.
- 
- • Designed and carried out experiments to test hypotheses, validate assumptions, and assess the impact of 
-   project initiative modifications.
-   
- • Developed, trained, and mentored junior data analysts, fostering their professional growth and contributing  
-   to team success.
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-#### Data Analyst, JISC, UK. (January 2022 – January, 2023)
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
- • Develop and manage the data and reporting infrastructure from scratch, enabling real-time insights into 
-   financial performance, products, membership agreements and renewals, and business KPIs.
-   
- • Created and maintained business dashboards and automated reports for senior leadership teams, providing  
-   timely and accurate information for strategic decision-making.
-   
- • Conducted data scraping, extraction, cleaning, organization, and analysis to identify Higher Education  
-   Institutions in the United Kingdom  committed to investing in Learning and Teaching products. Gained  
-   insights into their agreements and spending patterns to inform business strategies.
-  
- • Developed comprehensive and quality-assured data aggregation through lean concepts, actively contributing to    problem-solving by engaging the community and stakeholders in the work of Intelligence and Analytics through    participation in cross Jisc data and Licensing and intelligence activities.
- 
- • Collaborated with the senior leadership team to present data and information analyses in a meaningful  
-   manner, facilitating informed decision-making and monitoring of the product portfolio.
-   
- • Formulated and automated the KPI reporting process using Excel and Tableau, providing real-time insights to  
-   identify areas of improvement for members. Achieved a 20% increase in customer value through actionable  
-   recommendations.
+![Bike Study](/assets/img/bike_study.jpeg)
 
+## Talks & Lectures
+- Causality: The new science of an old question - GSP Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- Weeks of Welcome Poster Competition - UTD, Fall 2019
+- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-#### Data Scientist, Quantnumerics. (August 2020 – December 2022)
- • Developed a customer purchase intent prediction model using logistic regression, achieving an accuracy of  
-   82% on the test dataset.
-   
- • Conducted A/B Testing for website optimization, leading to 10% increase in conversion rate.
- 
- • Collaborated with senior data scientists to develop a predictive model for customer churn, which reduced 
-   churn rate by 15%
- • Analyzed large datasets using SQL and Python, providing actionable insights to the marketing team.
- 
- • Maintained clear and coherent communication, both verbal and written, to understand data needs and report  
-   results.
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-   
-#### Communications Analyst, Novo Health Africa. (March 2019 -July 2020)
- • Conducted analysis and reporting, visualizing a wide range of online performance data, and presenting to 
-   Management
-   
- • Developed monthly metric reports for KPI tracking.
- 
- • Identified and promoted internal and external communications strategies and opportunities to support  
-   communication methods, increasing the brands online presence by 43%.
-   
- • Developed (write-up and designs) corporate profiles for both printed and electronic media using adobe  
-   photoshop.
-   
- • Handled client issues and provided effective resolutions through attentive listening and online support.
- 
- • Introduced a dynamic email service, produced the first ever ‘Novo Strivia’ and Health Hacks media programs.
- 
- • Set up and managed a team of media volunteers.
+## Publications
+1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
+4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
+5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
+6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
+7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
+9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
- 
-#### Digital Marketer/ Brand Manager, Premium E-commerce Service. (August 2017 – February 2019)
- • Conducted ongoing market research and demographic profiling, staying ahead of market needs.
- 
- • Created conditional email campaigns based on customer interactions, leading to a 20% increase in customer  
-  retention.
-  
- • Strategized, developed, and managed paid digital marketing across platforms like AdWords, Instagram, and    
-   Facebook, resulting in a 30% increase in monthly revenue.
- 
- • Analyzed competitor and customer insights and contributed to product and campaign designs.
-
- • Automated marketing KPI reporting using Google Analytics and Spreadsheets, saving approximately 8 hours of 
-   manual work each week.   
-
-
-## Research Projects 
-
-### Predicting GPA Scores of College Students
-[Project Source](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
-
-For educators, it's sad to see students struggle and drop out. The goal of this analytics project was to 
-predict the GPA scores of college students based on their SAT scores and attendance. 
-Regression model was used, aswell as statsmodels library in python. The findings from the project can be
-used by educators to identify poor-performing students at risk of dropping out on time and provide targeted support and personalized learning.  
-(April 2020).   
-
-### Analytical Report of Barratt Development PLC
-[Project Source](https://github.com/chukolate007/Analytical-Report-of-Barratt-Development-PLC-)
-
-The goal of this project is to provide sufficient advice on Barratt as a viable investment opportunity. Utilized Stats model, Matplotlib, and Pandas for statistical analysis, Linear regression model and visualization to assess the company's financial performance. 
-(April 2021).   
-
-### Exploring the immigration to Canada
-[Project Source](https://github.com/chukolate007/Visualizing-Datasets-from-immigrations-to-canada-fro-1980-to-2013)
-
-Analysing and ranking countries that immigrated to Canada between 1980 and 2013, with insights into events that may have played a role in/influenced their immigration.
-(Nov 2020) 
-
-### Exploration of Walmart Retail Sales Data
-[Project Source](https://github.com/chukolate007/-EXPLORATION-OF-WALMART-RETAIL-SALES-DATA-A-DESCRIPTIVE-APPROACH)
-
-Descriptive Approach: The goal of this study is to investigate Walmart's retail sales using Tableau software in a descriptive approach with six metrics - average sales, profit, and discount, distribution of average profit by state in the United States, percentage of profit per region, sales profits per month, average sales profit based on age, and Sub-category per average profit. 
-(March 2022).   
-
-### Student Audience Interest in Selected Data Science Topics
-[Project Source](https://github.com/chukolate007/Visualizing-Selected-Data-Science)
-
-The goal of this project was to understand students’ interest in some selected data science topics using numpy and pandas and matplotlib for visualization. 
-(Nov 2020).   
-
-### Presentations/ Articles
-
-S.C Chiazor, C.A Omonhinmin, 2018. [Impact Evaluation Study of Biotechnology Publishing in Nigeria](https://scholar.google.com/citations?user=KLq2IvEAAAAJ&hl=en%20%20https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLq2IvEAAAAJ&cstart=20&pagesize=80&citation_for_view=KLq2IvEAAAAJ:Zph67rFs4hoC)
-
-31st Annual International Conference of the Biotechnology Society of Nigeria.
-
-[The future of AI and Data Science: Exciting Times Ahead for the UK Economy.](https://medium.com/@msjntzkdt/the-future-of-ai-and-data-science-exciting-times-ahead-for-the-uk-economy-5794aba9861f)
-
-[How Predicting College GPA scores Inspired a Journey of Discovery. ](https://medium.com/@msjntzkdt/from-curiosity-to-impact-how-predicting-college-gpa-scores-inspired-a-journey-of-discovery-75bce586e0ab)
-
-[Classrooms of tomorrow: 7 ways AI is shaping the Future of Education](https://medium.com/@msjntzkdt/classrooms-of-tomorrow-7-ways-ai-is-shaping-the-future-of-education-f0b9d2877ad5)
-
-[Bias and Fairness in AI: Ensuring Just Outcomes in Critical Domains](https://medium.com/@msjntzkdt/bias-and-fairness-in-ai-ensuring-just-outcomes-in-critical-domains-15d64b0abdb)
+- [Data Science Blog](https://medium.com/@shawhin)
