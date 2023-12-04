@@ -38,7 +38,7 @@
 For educators, it's sad to see students struggle and drop out. The goal of this analytics project was to predict the GPA scores of college students based on their SAT scores and attendance. A regression model was used, as well as stats models library in Python. The findings from the project can be used by educators to identify poor-performing students at risk of dropping out on time and provide targeted support and personalized learning.
 (April 2020).
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/pages/utils/success.jpeg)
 
 ### Analytical Report of Barratt Development PLC
 [Publication](https://github.com/chukolate007/Analytical-Report-of-Barratt-Development-PLC-)
@@ -48,7 +48,7 @@ This report aims to provide sufficient advice on Barratt as a good company for i
 From the analysis, Barratt has a higher mean return and standard deviation. This however implies that Barratt has both the higher return and volatility/risk. The regression line had a good fit between Barratt and Berkeley Returns. The time series forecasting analysis suggests Simple Exponential Smoothing method as the most suitable forecasting model due to its lower Moving Average Error and highest (four) forecast line points matching with the test price line (ground truth or expectation)
 (April 2021)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/pages/utils/0.png)
 
 
 ### Deciphering Amazon's User based Recommendation System
