@@ -38,7 +38,7 @@
 For educators, it's sad to see students struggle and drop out. The goal of this analytics project was to predict the GPA scores of college students based on their SAT scores and attendance. A regression model was used, as well as stats models library in Python. The findings from the project can be used by educators to identify poor-performing students at risk of dropping out on time and provide targeted support and personalized learning.
 (April 2020).
 
-![EEG Band Discovery](/pages/utils/success.jpeg)
+![EEG Band Discovery](/Pages/utils/success.jpeg)
 
 ### Analytical Report of Barratt Development PLC
 [Publication](https://github.com/chukolate007/Analytical-Report-of-Barratt-Development-PLC-)
@@ -51,7 +51,7 @@ From the analysis, Barratt has a higher mean return and standard deviation. This
 ![Bike Study](/pages/utils/0.png)
 
 
-### Deciphering Amazon's User based Recommendation System
+### Deciphering Amazon's User-based Recommendation System
 [Project Source](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
 
 This project offers a step-by-step guide to creating a movie recommender system using Amazon’s movie ratings dataset. By the end of this guide, you’ll gain not just technical know-how but also insights into the practical applications of such models, particularly in the educational sector. Surprise library (SVD Algorithm) was utilized as the recommender system.
