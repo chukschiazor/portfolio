@@ -48,7 +48,7 @@ This report aims to provide sufficient advice on Barratt as a good company for i
 From the analysis, Barratt has a higher mean return and standard deviation. This however implies that Barratt has both the higher return and volatility/risk. The regression line had a good fit between Barratt and Berkeley Returns. The time series forecasting analysis suggests Simple Exponential Smoothing method as the most suitable forecasting model due to its lower Moving Average Error and highest (four) forecast line points matching with the test price line (ground truth or expectation)
 (April 2021)
 
-![Bike Study](/pages/utils/0.png)
+![Bike Study](/Pages/utils/0.png)
 
 
 ### Deciphering Amazon's User-based Recommendation System
