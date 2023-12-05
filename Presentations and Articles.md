@@ -2,6 +2,7 @@
 layout: page
 title: "Presentations and Articles"
 permalink: /Presentations-and-Articles/
+
 ---
 
 ## Presentation
