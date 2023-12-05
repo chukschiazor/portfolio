@@ -30,8 +30,7 @@
 - Set up and managed a team of media volunteers
 
 
-
- ##Projects
+## Projects
 
 ### Deciphering Amazon's User-based Recommendation System
 [Project Source](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
