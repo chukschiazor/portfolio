@@ -7,8 +7,8 @@ theme: jekyll-theme-minimal
 navigation:
   - title: "Home"
     url: "/"
-  - title: "Presentations and Articles"
-    url: "/Presentations-and-Articles/"
+  - title: "presentations and articles"
+    url: "/presentations-and-articles/"
   - title: "About me"
     url: "/About-me/"
 
