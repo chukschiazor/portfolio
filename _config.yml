@@ -3,3 +3,12 @@ logo: /Pages/utils/3.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Presentations and Articles"
+    url: "/presentations and Articles/"
+  - title: "About"
+    url: "/About/"
+
