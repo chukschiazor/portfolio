@@ -31,7 +31,7 @@
 
 
 
- ## Projects
+ ##Projects
 
 ### Deciphering Amazon's User-based Recommendation System
 [Project Source](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
