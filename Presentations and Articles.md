@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Presentations and Articles"
-permalink: /Presentations-and-Articles/
+title: "presentations and articles"
+permalink: /presentations-and-articles/
 
 ---
 
