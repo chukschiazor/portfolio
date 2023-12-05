@@ -8,7 +8,7 @@ navigation:
   - title: "Home"
     url: "/"
   - title: "Presentations and Articles"
-    url: "/presentations-and-articles/"
+    url: "/Presentations-and-Articles/"
   - title: "About me"
-    url: "/about-me/"
+    url: "/About-me/"
 
