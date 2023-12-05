@@ -10,7 +10,7 @@
 - BS.c, Plant Biotechnology | The University of Benin, Nigeria (_Oct 2015_)
 
 ## Professional Experience
-** Senior Data Scientist @ BPP Education Group (_February 2023 - Present_)**
+**Senior Data Scientist @ BPP Education Group (_February 2023 - Present_)**
 - Identify opportunities to employ statistical modeling, machine learning, and other data-driven and AI methodologies for BPP Marketing team.
 - Developed and optimize the Marketing Media Mix model which resulted in improvement in model performance for product promotions, budget distribution, and Lead forecasting, saving thousands of pounds in potential losses
 - Developed a novel MMM UI application for the effective deployment of the MMM Model, designed to assist stakeholders in planning their marketing budget and forecasting prospective student numbers for different marketing budget scenarios.
