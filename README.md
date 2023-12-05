@@ -9,6 +9,8 @@
 - MS.c., Business Intelligence and Analytics [Distinction] | The University of Huddersfield, UK. (_Feb 2022_)								       			 			        		
 - BS.c, Plant Biotechnology | The University of Benin, Nigeria (_Oct 2015_)
 
+
+
 ## Professional Experience
 **Senior Data Scientist @ BPP Education Group (_February 2023 - Present_)**
 - Identify opportunities to employ statistical modeling, machine learning, and other data-driven and AI methodologies for BPP Marketing team.
@@ -28,6 +30,8 @@
 - Conducted analysis and reporting, visualizing a wide range of online performance data, and presenting to Management 
 - Introduced a dynamic email service, and produced the first ever ‘Novo Strivia’ and Health Hacks media programs.
 - Set up and managed a team of media volunteers
+
+
 
 
 ## Projects
