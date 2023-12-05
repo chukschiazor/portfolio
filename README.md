@@ -32,6 +32,16 @@
 
 
  ## Projects
+
+### Deciphering Amazon's User-based Recommendation System
+[Project Source](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
+
+This project offers a step-by-step guide to creating a movie recommender system using Amazon’s movie ratings dataset. By the end of this guide, you’ll gain not just technical know-how but also insights into the practical applications of such models, particularly in shaping personalized educational tools, a blend of data science and educational innovation. Surprise library (SVD Algorithm) was utilized as the recommender system.
+(October 2023).
+
+ ![Bike Study](/Pages/utils/0.png)
+
+ 
 ### Student Success Prediction with GPA Scores
 [Project Source](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
 
@@ -47,15 +57,6 @@ This report aims to provide sufficient advice on Barratt as a good company for i
 
 From the analysis, Barratt has a higher mean return and standard deviation. This however implies that Barratt has both the higher return and volatility/risk. The regression line had a good fit between Barratt and Berkeley Returns. The time series forecasting analysis suggests Simple Exponential Smoothing method as the most suitable forecasting model due to its lower Moving Average Error and highest (four) forecast line points matching with the test price line (ground truth or expectation)
 (April 2021)
-
-![Bike Study](/Pages/utils/0.png)
-
-
-### Deciphering Amazon's User-based Recommendation System
-[Project Source](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
-
-This project offers a step-by-step guide to creating a movie recommender system using Amazon’s movie ratings dataset. By the end of this guide, you’ll gain not just technical know-how but also insights into the practical applications of such models, particularly in the educational sector. Surprise library (SVD Algorithm) was utilized as the recommender system.
-(October 2023).
 
 
 ### Exploring the immigration to Canada
