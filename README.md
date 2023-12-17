@@ -6,7 +6,7 @@
 #### Other Tools: Google Analytics 4, SAP ERP, Saleforce CRM, Adobe Photoshop, Arena. 
 
 ## Education
-- MS.c., Business Intelligence and Analytics [Distinction] | The University of Huddersfield, UK. (_Feb 2022_)								       			 			        		
+- M.Sc. Business Intelligence and Analytics [Distinction] | The University of Huddersfield, UK. (_Feb 2022_)								       			 			        		
 - BS.c, Plant Biotechnology | The University of Benin, Nigeria (_Oct 2015_)
 
 
