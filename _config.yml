@@ -1,14 +1,14 @@
 title: Chuks Chiazor
 logo: /Pages/utils/3.png
 #description: text below image
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 navigation:
-  - title: "Home"
-    url: "/"
-  - title: "presentation"
-    url: "/presentation/"
-  - title: "about"
-    url: "/about/"
+  title: "Home"
+  url: "/"
+  title: "presentation"
+  url: "/presentation/"
+  title: "about"
+  url: "/about/"
 
