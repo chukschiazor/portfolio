@@ -54,7 +54,7 @@ For educators, it's sad to see students struggle and drop out. The goal of this 
 
 ![EEG Band Discovery](/Pages/utils/success.jpeg)
 
-### Analytical Report of Barratt Development PLC
+### Leveraging Analytical Tools for Barratt Development PLC's Strategic Investment Decision
 [Project Source](https://github.com/chukolate007/Analytical-Report-of-Barratt-Development-PLC-)
 
 This report aims to provide sufficient advice on Barratt as a good company for investment based on existing data and to provide prospective investors with an understanding of the company's overall financial performance. To accomplish this, descriptive, time series, and fundamental analysis were carried.
