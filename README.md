@@ -23,7 +23,7 @@ I'd love to connect and see how we can create something amazing together.
 
 ## Contact Information
 
-Email: [your-email@example.com](mailto:chiazor_chuks@rocketmail.com)
+Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 
 
 ## Skills
