@@ -1,9 +1,9 @@
 title: Chuks Chiazor
 
-img[alt='logo'] {
-    border-radius: 50%;}
+
     
-logo: /Pages/utils/3.png
+logo: /Pages/utils/3.png img[alt='logo'] {
+    border-radius: 50%;}
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
