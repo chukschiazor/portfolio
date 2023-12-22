@@ -45,15 +45,15 @@ Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 - Developed a novel MMM UI application for the effective deployment of the MMM Model, designed to assist stakeholders in planning their marketing budget and forecasting prospective student numbers for different marketing budget scenarios.
 -  Developed a Natural Language Processing (NLP) model that extracts information from RFI forms in real-time, aiding the marketing team to efficiently prioritise leads and potential students.
   
-**Data Scientist @ Quantnumerics(_August 2020 - December 2022)**
+**Data Scientist @ Quantnumerics(_August 2020 - December 2022_)**
 - Developed a customer purchase intent prediction model using logistic regression, achieving an accuracy of 82% on the test dataset
 - Conducted A/B Testing for website optimization, leading to 10% increase in conversion rate
 
-**Data Analyst @ JISC (_January 2022 - January 2023)**
+**Data Analyst @ JISC (_January 2022 - January 2023_)**
 - Conducted data scraping, extraction, cleaning, organization, and analysis to identify Higher Education Institutions in the United Kingdom committed to investing in Learning and Teaching products. Gained insights into their agreements and spending patterns to inform business strategies.
 - Formulated and automated the KPI reporting process, providing real-time insights to identify areas of improvement for members. Achieved a 20% increase in customer value through actionable recommendations
 
-**Communication Analyst @ Novo Health Africa (_March 2019 - July 2020)**
+**Communication Analyst @ Novo Health Africa (_March 2019 - July 2020_)**
 - Conducted analysis and reporting, visualizing a wide range of online performance data, and presenting to Management 
 - Introduced a dynamic email service, and produced the first ever ‘Novo Strivia’ and Health Hacks media programs.
 - Set up and managed a team of media volunteers
