@@ -87,7 +87,7 @@ For educators, it's sad to see students struggle and drop out. The goal of this 
 This report aims to provide sufficient advice on Barratt as a good company for investment based on existing data and to provide prospective investors with an understanding of the company's overall financial performance. To accomplish this, descriptive, time series, and fundamental analysis were carried.
 
 From the analysis, Barratt has a higher mean return and standard deviation. This however implies that Barratt has both the higher return and volatility/risk. The regression line had a good fit between Barratt and Berkeley Returns. The time series forecasting analysis suggests Simple Exponential Smoothing method as the most suitable forecasting model due to its lower Moving Average Error and highest (four) forecast line points matching with the test price line (ground truth or expectation)
-(April 2021)
+(April 2022)
 
 
 ### Exploring the immigration to Canada
