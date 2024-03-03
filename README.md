@@ -27,7 +27,7 @@ Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 
 
 ## Skills
-#### Programming language: Python, SQL Tableau, and Power BI
+#### Programming language: Python, SQL, Tableau, and Power BI
 #### Data Analysis/ Machine Learning Tools: Alteryx,SPSS, NUMPY, and Pandas
 #### Data Visualization Tools: Tableau, Power BI, and MS Excel
 #### Other Tools: Google Analytics 4, SAP ERP, Saleforce CRM, Adobe Photoshop, and Arena 
