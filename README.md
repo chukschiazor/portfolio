@@ -34,7 +34,7 @@ Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 
 ## Education
 - M.Sc. Business Intelligence and Analytics [Distinction] | The University of Huddersfield, UK (_Completed February 2022_)								       			 			        		
-- B.Sc, Plant Biotechnology | The University of Benin, Nigeria (_Completed October 2015_)
+- B.Sc. Plant Biotechnology | The University of Benin, Nigeria (_Completed October 2015_)
 
 
 
