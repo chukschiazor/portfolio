@@ -26,7 +26,7 @@ Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 #### Programming language: Python,R, SQL, Tableau, and Power BI
 #### Data Analysis/ Machine Learning Tools: Alteryx,SPSS, NUMPY, and Pandas
 #### Data Visualization Tools: Tableau, Power BI, and MS Excel
-#### Other Tools: Google Analytics 4, SAP ERP, Saleforce CRM, Adobe Photoshop, and Arena 
+#### Other Tools: Docker, Google Analytics 4, SAP ERP, Saleforce CRM, Adobe Photoshop, and Arena 
 
 ## Education
 - M.Sc. Business Intelligence and Analytics [Distinction] | The University of Huddersfield, UK (_Completed February 2022_)								       			 			        		
