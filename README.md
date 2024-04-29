@@ -63,6 +63,7 @@ Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 
 ### Deploying Models and Visualization with R Shiny
 [Blog post](https://medium.com/@msjntzkdt/unlocking-the-power-of-data-with-r-shiny-web-applications-for-model-deployment-and-visualisation-10fe0ff36281)
+
 [Project's Github with script](https://github.com/chukschiazor/GPA-Calculator)
 
 Developing, visualising, and deploying models with R Shiny allows data scientists and statisticians to create powerful, interactive, and user-friendly charts and web applications. By bulidng a college GPA calculator as an example, I’ve demonstrated the process of building a Shiny app from scratch, highlighted its importance for educational institutions, and outlined the benefits over traditional applications. Shiny thus represents a valuable tool in the modern data scientist’s toolkit. (Completed in January 2024).
