@@ -61,6 +61,16 @@ Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 ## Projects
 
 
+### Deploying Models and Visualization with R Shiny
+[Blog post(https://medium.com/@msjntzkdt/unlocking-the-power-of-data-with-r-shiny-web-applications-for-model-deployment-and-visualisation-10fe0ff36281)
+[Project's Github with script](https://github.com/chukschiazor/GPA-Calculator)
+
+Developing, visualising, and deploying models with R Shiny allows data scientists and statisticians to create powerful, interactive, and user-friendly charts and web applications. By bulidng a college GPA calculator as an example, I’ve demonstrated the process of building a Shiny app from scratch, highlighted its importance for educational institutions, and outlined the benefits over traditional applications. Shiny thus represents a valuable tool in the modern data scientist’s toolkit. (Completed in January 2024).
+
+ ![Bike Study](/Pages/utils/Shiny.png)
+
+
+
 ### Deciphering Amazon's User-based Recommendation System
 [Project's Github with more details](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
 
@@ -90,7 +100,7 @@ From the analysis, Barratt has a higher mean return and standard deviation. This
 ### Exploring the immigration to Canada
 [Project's Github with more details](https://github.com/chukolate007/Visualizing-Datasets-from-immigrations-to-canada-fro-1980-to-2013)
 
-Analysing and ranking countries that immigrated to Canada between 1980 and 2013, with insights into events that may have played a role in/influenced their immigration. (Completed in November, 2020)
+Analysing and ranking countries that immigrated to Canada between 1980 and 2013, with insights into events that may have played a role in/influenced their immigration. Python, Pandas, Matplotlib (Completed in November, 2020)
 
 ### Exploration of Walmart Retail Sales Data
 
