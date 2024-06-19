@@ -50,7 +50,7 @@ Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 - Formulated and automated the KPI reporting process, providing real-time insights to identify areas of improvement for members. Achieved a 20% increase in customer value through actionable recommendations.
 - Developed Interactive Analytics UI Dashboards for digital resource management and digital content negotiated by Jisc improving members (HE and FE Institutions) usage and value discount offered by Jisc.
   
-**Communication Analyst @ Novo Health Africa (_March 2019 - July 2020_)**
+**Communication Analyst @ Novo Health Africa (_March 2017 - July 2020_)**
 - Conducted analysis and reporting, visualizing a wide range of online performance data, and presenting to Management.
 - Introduced a dynamic email service, and produced the first ever ‘Novo Strivia’ and Health Hacks media programs.
 - Set up and managed a team of media volunteers.
