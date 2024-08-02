@@ -73,7 +73,7 @@ Developing, visualising, and deploying models with R Shiny allows data scientist
 
 
 ### Deciphering Amazon's User-based Recommendation System
-[Project's Github with more details](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
+[Project's Github with more details](https://github.com/chukschiazor/Deciphering-Amazon-Recommendation-System)
 
 This project offers a step-by-step guide to creating a movie recommender system using Amazon’s movie ratings dataset. By the end of this guide, you’ll gain not just technical know-how but also insights into the practical applications of such models, particularly in shaping personalized educational tools, a blend of data science and educational innovation. Surprise library (SVD Algorithm) was utilized as the recommender system.
 (Completed in October 2023).
