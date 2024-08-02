@@ -81,7 +81,7 @@ This project offers a step-by-step guide to creating a movie recommender system 
  ![Bike Study](/Pages/utils/0.png)
 
  
-### Student Success Prediction with GPA Scores
+### Student Success Prediction with SAT Scores
 [Project's Github with more details](https://github.com/chukolate007/Predicting-GPA-Scores-of-College-Students)
 
 For educators, it's sad to see students struggle and drop out. The goal of this analytics project was to predict the GPA scores of college students based on their SAT scores and attendance. A regression model was used, as well as stats models library in Python. The findings from the project can be used by educators to identify poor-performing students at risk of dropping out on time and provide targeted support and personalized learning.
