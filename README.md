@@ -109,6 +109,8 @@ Analysing and ranking countries that immigrated to Canada between 1980 and 2013,
 
 Descriptive Approach: The goal of this study is to investigate Walmart's retail sales using Tableau software in a descriptive approach with six metrics - average sales, profit, and discount, distribution of average profit by state in the United States, percentage of profit per region, sales profits per month, average sales profit based on age, and Sub-category per average profit. (Completed March 2022)
 
+![EEG Band Discovery](/Pages/utils/walmart.png) 
+
 
 ### Student Audience Interest in Selected Data Science Topics
 
