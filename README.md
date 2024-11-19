@@ -60,6 +60,20 @@ Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 
 ## Projects
 
+### Classifying Music Genres with PCA and Logistic Regression
+[Blog post](https://medium.com/@msjntzkdt/classifying-music-genres-with-pca-and-logistic-regression-dc5385d3d48a)
+
+[Project's Github page with script](https://github.com/chukschiazor/Classifying-Music-Genres-with-PCA-and-Logistic-Regression)
+
+In the era of digital streaming, there’s an increasing need to categorize and recommend music based on genres. By analyzing various musical features extracted from tracks, we can delve deeper into their defining patterns. In this music genre classification project, you’ll work with a dataset containing various musical features extracted from tracks across different styles. (Completed in November 2024).
+
+ ![Spotify Muisc Genre](/Pages/utils/SPOTIFYMUSIC.JPEG)
+
+
+
+
+
+
 
 ### Deploying Models and Visualization with R Shiny
 [Blog post](https://medium.com/@msjntzkdt/unlocking-the-power-of-data-with-r-shiny-web-applications-for-model-deployment-and-visualisation-10fe0ff36281)\
