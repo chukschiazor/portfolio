@@ -67,7 +67,7 @@ Email: [Chuks Chiazor](mailto:chiazor_chuks@rocketmail.com)
 
 In the era of digital streaming, there’s an increasing need to categorize and recommend music based on genres. By analyzing various musical features extracted from tracks, we can delve deeper into their defining patterns. In this music genre classification project, you’ll work with a dataset containing various musical features extracted from tracks across different styles. (Completed in November 2024).
 
- ![Spotify Muisc Genre](/Pages/utils/SPOTIFYMUSIC.JPEG)
+ ![Spotify Muisc Genre](/Pages/utils/SPOTIFY_MUSIC.JPEG)
 
 
 
